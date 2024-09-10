@@ -1,23 +1,15 @@
 ## **Technology Company Analysis (2024)**
-
----
-
-## 
-
 ## An in-depth analysis of the top 1,000 technology companies worldwide, examining market capitalization, industry trends, and regional distribution. This analysis aims to provide insights into potential investment opportunities and guide stakeholders in identifying key market segments. Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/Top1000TechCompaniesDashboard_17248622034720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## ![Dashboard 2(2)](https://github.com/user-attachments/assets/40798e3e-5ea0-4153-8877-49c950754550)
 
 ## **Northstar Metrics and Dimensions**
 
----
-
 *  **Market Cap Leaders:** by Company, by Market Cap, by Market Cap Percentage (MC%), by Industry  
 * **Company Volume:** by Market Cap, by Market Cap Percentage (MC%), by Industry 
 
 ## **Summary of Insights**
 
----
 
 ## Total market capitalisation
 
@@ -40,8 +32,6 @@
 **IT Services and Software Application:** The Information Technology Services industry has a market capitalisation of $1.35 trillion, while the Software Application industry follows with $2.38 trillion. The US leads in both sectors, particularly in IT Services, which are crucial for global business operations. The strong presence of these industries in the US and Japan underscores their roles as major hubs for tech services and software innovation.
 
 ## **Recommendations/Next Steps**
-
----
 
 **Focus Investments:** Based on the high market capitalisation of Software Infrastructure and Semiconductors, it is recommended that the firm focuses its investments in these areas, particularly targeting companies in the US and Taiwan.
 
